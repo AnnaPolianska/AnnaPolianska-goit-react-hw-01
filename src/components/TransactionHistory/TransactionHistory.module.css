@@ -1,0 +1,32 @@
+.container {
+    margin: 32px auto;
+    padding: 16px;
+    max-width: 90%;
+    width: 90%;
+    border-radius: 8px;
+    box-shadow: rgb(141, 81, 81) -0.0625rem -0.0625rem 0.0625rem, rgb(186, 190, 204) 0.0625rem 0.0625rem 0.0625rem;
+    background-color: rgb(128, 128, 128);
+}
+
+.thead {
+    border-radius: 8px;
+    background-color: black;
+    color: #fdfdfd;
+    text-shadow: rgb(255, 255, 255) 0.0625rem 0.0625rem 0.0625rem;
+    font-family: Roboto;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.th {
+    padding: 8px;
+    text-align: center;
+}
+
+.tbody {
+    background-color: rgb(80, 24, 24);
+}
+
+.tr {
+    background-color: rgb(64, 119, 113);
+}
