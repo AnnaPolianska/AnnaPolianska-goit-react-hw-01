@@ -16,3 +16,5 @@ export const FriendListItem = ({ item }) => {
 
 
 export default FriendListItem;
+
+     {/* className = { clsx(isOnline? css.isOnline : css.isNotOnline) {isOnline ? "Online" : "Offline"}*/}
